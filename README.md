@@ -6,6 +6,7 @@ Users rate different movies (like IMDB). Hence Users will have RATED relationshi
 ## Version used
 - Spring Boot - 2.2.4.RELEASE
 - Neo4J Bolt Driver - 3.2.8
+ -  with bolt driver the pai will coneeect directly with neo4j driver
 
 ## REST endpoint
 - `/rest/test/user` - returns all users and their relationships (movies)
