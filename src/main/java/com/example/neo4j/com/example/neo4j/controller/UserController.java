@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Collection;
 
 @RestController
-@RequestMapping("/rest/neo4j/user")
+@RequestMapping("/rest/test/user")
 public class UserController {
 
     @Autowired
